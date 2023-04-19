@@ -1,6 +1,9 @@
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-color: #eeeeee;
+  background-color: #bfbbbb;
+  display: flex;
+  align-items: center;
+  text-align: center;
 }
 
 .app {
@@ -39,4 +42,14 @@ img {
   box-shadow: 3px 3px 12px #333;
   width: 50%;
   padding: 10px;
+}
+h1 {
+  text-align: center;
+  color: red;
+  font-size: xx-large;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+card {
+align-items: center;
 }
