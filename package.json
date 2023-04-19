@@ -1,0 +1,30 @@
+{
+  "name": "api-super-heroi",
+  "version": "1.0.0",
+  "description": "Vamos criar uma aplicação que busca a imagem e o nome de uma super heroína ou um super herói",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "scripts": {
+      "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoSouzaFarias/api-super-heroi.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "BrunoSouzaFarias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoSouzaFarias/api-super-heroi/issues"
+  },
+  "homepage": "https://github.com/BrunoSouzaFarias/api-super-heroi#readme",
+  "dependencies": {
+    "sweetalert2": "^11.7.3",
+    "vite": "^4.2.2"
+  },
+  "devDependencies": {}
+}
